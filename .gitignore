@@ -1,0 +1,37 @@
+# Go backend
+/api/bin/
+/api/tmp/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+/Godeps/
+
+# Next.js frontend
+/web/node_modules/
+/web/.pnpm-store/
+/web/.next/
+/web/out/
+/web/.vercel/
+/web/.env
+/web/.env.*
+/web/.DS_Store
+/web/npm-debug.log*
+/web/yarn-debug.log*
+/web/yarn-error.log*
+/web/pnpm-debug.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
