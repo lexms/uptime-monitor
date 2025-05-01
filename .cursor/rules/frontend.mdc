@@ -1,0 +1,8 @@
+---
+description: 
+globs: next
+alwaysApply: false
+---
+- use newest nextjs with app router
+- use shadcn command to add ui components from shadcn
+- use pnpm
